@@ -18,11 +18,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <br>
 
-<p align="center">
-  <img width="100%" alt="Captura de tela 2024-01-27 235012" src=".github/preview.png">
-
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
